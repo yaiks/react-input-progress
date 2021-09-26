@@ -1,0 +1,35 @@
+{
+  "name": "react-input-progress",
+  "version": "0.0.1",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/react-input-progress.umd.js",
+  "module": "./dist/react-input-progress.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/react-input-progress.es.js",
+      "require": "./dist/react-input-progress.umd.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.10.1",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.2",
+    "vite": "^2.5.4"
+  },
+  "peerDependencies": {
+    "react": "^17.x",
+    "react-dom": "^17.x"
+  }
+}
