@@ -18,6 +18,15 @@
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaiks/react-input-progress.git"
+  },
+  "homepage": "https://github.com/yaiks/react-input-progress",
+  "bugs": {
+    "url": "https://github.com/yaiks/react-input-progress/issues"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^16.10.1",
