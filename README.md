@@ -14,6 +14,10 @@ A React component to create a round input progress as you type in an input
 - [ ] Other formats besides rounded progress bar
 - [ ] Ideas are welcome...
 
+## Demo
+
+[Check out a really simple demo here](https://serene-hamilton-9ff4e9.netlify.app/)
+
 ## Installation
 
 ```sh
