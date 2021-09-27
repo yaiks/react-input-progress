@@ -4,15 +4,15 @@ A React component to create a round input progress as you type in an input
 
 > Inspired by twitter's input progress
 
-- 🪶 1kb compressed
+- 🐦 1kb compressed
 - 💅 Control the size and color
 - 📝 Works in any text input
 
 **Future features**
 
-- [] Animation when reached max input limit
-- [] Other formats besides rounded progress bar
-- [] Ideas are welcome...
+- [ ] Animation when reached max input limit
+- [ ] Other formats besides rounded progress bar
+- [ ] Ideas are welcome...
 
 ## Installation
 
